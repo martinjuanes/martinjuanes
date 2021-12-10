@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @martinjuanes
+- 👋 Hi, I’m @martin.juaness
 - 👀 I’m interested in todo
 - 🌱 I’m currently learning todo
 - 💞️ I’m looking to collaborate on nasa 
